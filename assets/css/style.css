@@ -49,6 +49,7 @@ body{
 }
 .imgsec img:hover{
     transform: scale(1.3);
+    cursor: pointer;
 }
 .right a:hover{
     color: orange;
